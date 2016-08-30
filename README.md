@@ -1,16 +1,14 @@
 # News-Recommendation-System
 
 The directory contains three subdirectories :
-————————————————————————————————————————————
 
-1. source_code : 8 pythons scripts , one each for each algorithm(kmeans, knn, nb, rank_classifier) + document.py script to represent the articles as a document object + a script to prepare tfidf and tfidfie from doc tf + util script + main.py script to run the application.
+1. source-code : 8 pythons scripts , one each for each algorithm(kmeans, knn, nb, rank-classifier) + document.py script to represent the articles as a document object + a script to prepare tfidf and tfidfie from doc tf + util script + main.py script to run the application.
 2. report : A PDF file documenting all the experiments details.
 3. dataset : BBC dataset, divided into 5 subdirectories, one each for a topic, consisting 2225 documents in total.
 
 To RUN:
-———————
 
-Change the working directory to source_code.
+Change the working directory to source-code.
 
 on command line : python main.py
 
@@ -18,7 +16,6 @@ Python version 2.7 is recommended.
 
 
 Guide:
-———————
 
 The application will first train and test three classifiers on the dataset. It will report confusion matrix and statistics.
 
