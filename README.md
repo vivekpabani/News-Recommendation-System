@@ -2,7 +2,7 @@
 
 The directory contains three subdirectories :
 
-1. source-code : 8 pythons scripts , one each for each algorithm(kmeans, knn, nb, rank-classifier) + document.py script to represent the articles as a document object + a script to prepare tfidf and tfidfie from doc tf + util script + main.py script to run the application.
+1. source-code : 8 python scripts , one each for each algorithm(kmeans, knn, nb, rank-classifier) + document.py script to represent the articles as a document object + a script to prepare tfidf and tfidfie from doc tf + util script + main.py script to run the application.
 2. report : A PDF file documenting all the experiments details.
 3. dataset : BBC dataset, divided into 5 subdirectories, one each for a topic, consisting 2225 documents in total.
 
